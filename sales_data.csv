@@ -1,0 +1,9 @@
+Date,Customer,Region,Product,Category,Quantity,Price,Total
+2025-03-01,John Doe,North,Smartphone,Electronics,2,500,1000
+2025-03-02,Jane Smith,South,Headphones,Electronics,1,150,150
+2025-03-03,Emily Clark,West,Sneakers,Fashion,3,80,240
+2025-03-04,Mike Ross,East,Watch,Accessories,1,200,200
+2025-03-05,David Lee,North,Laptop,Electronics,1,1200,1200
+2025-03-06,Linda Brown,South,Jeans,Fashion,2,60,120
+2025-03-07,Chris Evans,West,Backpack,Accessories,1,100,100
+2025-03-08,Natalie Port,East,Shoes,Fashion,4,75,300
